@@ -1,6 +1,7 @@
 # How to run the code?
 ## Easy 2 step process.
- ================================
+
+
  Step 1: Open the user_code.cpp file. And write your code there inside the solve function.
  Step 2: Execute the 
     For Windows - run_test.bat file
