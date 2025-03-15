@@ -3,11 +3,11 @@
 
 
  Step 1: Open the user_code.cpp file. And write your code there inside the solve function.
- 
- Step 2: Execute the 
-    For Windows - run_test.bat file
 
-    For Linux - run_test.sh file
+ Step 2: Execute the 
+    For Windows - run_tests.bat
+
+    For Linux - ./run_tests.sh
 
 You will see the test1.in and EdgeCases.in two files are there for the testcase, they will Passed or Failed according your code Logic.
 
